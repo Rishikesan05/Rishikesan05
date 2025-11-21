@@ -1,25 +1,12 @@
-<h1 align="center"> 
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHcm2qMa12qRg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719578984705?e=1758758400&v=beta&t=ViTHovXAPFo_R28OkkLvroEevqe_c2vNpWqB5mD3Ufk" width="100%" height="auto" alt="Header Image" />
-</h1>
+<h1 align="center"> <img src="https://img.freepik.com/free-vector/game-night-twitch-banner-template_23-2151006140.jpg?semt=ais_hybrid&w=740&q=80" width="100%" height="auto" alt="Header Image"/> </h1>
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
 
 <p align="center" style="display: flex; gap: 15px; justify-content: center; margin-top: 0; margin-bottom: 0;">
-  <a href="https://www.linkedin.com/in/rishikesan05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bsrishi2003@gmail.com@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://rishikesan05.github.io/RishiPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Rishikesan05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
+  <a href="https://www.linkedin.com/in/rishikesan05/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+  <a href="mailto:bsrishi2003@gmail.com@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+  <a href="https://rishikesan05.github.io/RishiPortfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a>
+  <a href="https://github.com/Rishikesan05"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
 
 ## 👨‍💻 About Me
 
