@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://drive.google.com/file/d/1lEJgZ9pFqQrfFoxpxFNBCZMQ1sl0y1Kb/view" width="100%" height="auto" alt="Header Image"/> </h1>
+<h1 align="center"> <img src="https://img.sanishtech.com/u/f3610c2b8abb863b757a972bd80d208a.png" width="100%" height="auto" alt="Header Image"/> </h1>
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
 
