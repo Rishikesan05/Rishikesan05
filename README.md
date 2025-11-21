@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://drive.google.com/file/d/1lEJgZ9pFqQrfFoxpxFNBCZMQ1sl0y1Kb/view?usp=drive_link" width="100%" height="auto" alt="Header Image"/> </h1>
+<h1 align="center"> <img src="https://drive.google.com/file/d/1lEJgZ9pFqQrfFoxpxFNBCZMQ1sl0y1Kb/view" width="100%" height="auto" alt="Header Image"/> </h1>
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
 
