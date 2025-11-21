@@ -39,9 +39,9 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **[Rishi Portfolio](https://rishikesan05.github.io/RishiPortfolio/)** | My personal portfolio - A performant, accessible showcase of my work | HTML, CSS | [Live Demo](https://rishikesan05.github.io/RishiPortfolio/) |
-| **[Rishi Productions](https://github.com/Rishikesan05/Rishiproduction.com)** | A production company site with focus on animations and smooth UX | HTML, CSS | [Live Demo](https://rishiproduction.com) |
-| **[Univerity Memories](https://rishikesan05.github.io/Univerity-Memories/)** | A website for organizing meetups in Kandy | HTML, CSS | [Live Demo](https://rishikesan05.github.io/Univerity-Memories/) |
+| **[Rishi Portfolio](https://rishikesan05.github.io/RishiPortfolio/)** | My personal portfolio - A performant, accessible showcase of my work | HTML, CSS, JS | [Live Demo](https://rishikesan05.github.io/RishiPortfolio/) |
+| **[Rishi Productions](https://github.com/Rishikesan05/Rishiproduction.com)** | My Own production company site | HTML, CSS, JS | [Live Demo](https://rishiproduction.com) |
+| **[Univerity Memories](https://rishikesan05.github.io/Univerity-Memories/)** | A website for organizing meetup Photos | HTML, CSS, JS | [Live Demo](https://rishikesan05.github.io/Univerity-Memories/) |
 
 ---
 
@@ -81,23 +81,11 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 ## 📫 Let's Connect & Collaborate
 
 <p align="center" style="display: flex; gap: 15px; justify-content: center; margin-top: 0; margin-bottom: 0;">
-  <a href="https://www.linkedin.com/in/rishikesan05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bsrishi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Rishikesan05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://rishikesan05.github.io/RishiPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Open to innovative project collaborations, tech discussions, and mentorship opportunities!</i> 💬
-</p>
+  <a href="https://www.linkedin.com/in/rishikesan05/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+  <a href="mailto:bsrishi2003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+  <a href="https://github.com/Rishikesan05"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+  <a href="https://rishikesan05.github.io/RishiPortfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a> </p>
+<p align="center"> <i>Open to innovative project collaborations, tech discussions, and mentorship opportunities!</i> 💬</p>
 
 ---
 
