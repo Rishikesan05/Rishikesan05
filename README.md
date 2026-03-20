@@ -4,16 +4,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rishikesan05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="vertical-align: middle;"/>
   </a>&nbsp;
   <a href="mailto:bsrishi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" style="vertical-align: middle;"/>
   </a>&nbsp;
   <a href="https://rishikesan05.github.io/RishiPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="28" style="vertical-align: middle;"/>
   </a>&nbsp;
   <a href="https://github.com/Rishikesan05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" style="vertical-align: middle;"/>
   </a>
 </div>
 
@@ -91,8 +91,6 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesan05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="150"/>
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishikesan05&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 </div>
@@ -102,8 +100,11 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies" loading="lazy"/>
+  </a>
 </div>
+<p align="center"><sub>If the trophies image doesn't load, open it directly <a href="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7">here</a>.</sub></p>
 
 ---
 
@@ -144,9 +145,10 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake.svg" width="100%"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake.svg" width="100%" loading="lazy"/>
   </picture>
 </div>
+<p align="center"><sub>If the snake animation doesn't load, view the <a href="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake.svg">light</a> or <a href="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake-dark.svg">dark</a> version.</sub></p>
 
 ---
 
@@ -154,19 +156,19 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rishikesan05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="vertical-align: middle;"/>
   </a>&nbsp;
   <a href="mailto:bsrishi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" style="vertical-align: middle;"/>
   </a>&nbsp;
   <a href="https://github.com/Rishikesan05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" style="vertical-align: middle;"/>
   </a>&nbsp;
   <a href="https://rishikesan05.github.io/RishiPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="28" style="vertical-align: middle;"/>
   </a>
 
-  <br/><br/>
+  <br/>
   <i>✨ Open to innovative project collaborations, tech discussions, and mentorship opportunities! 💬</i>
 </div>
 
