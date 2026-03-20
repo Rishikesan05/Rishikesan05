@@ -100,9 +100,9 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
 </div>
-<p align="center"><sub>If the trophies image doesn't load, open it directly <a href="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7">here</a>.</sub></p>
+<p align="center"><sub>If the trophies image doesn't load, open it directly <a href="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7">here</a>.</sub></p>
 
 ---
 
@@ -146,7 +146,7 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake.svg" width="100%"/>
   </picture>
 </div>
-<p align="center"><sub>If the snake animation doesn't load, view the <a href="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake.svg">light</a> or <a href="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake-dark.svg">dark</a> version.</sub></p>
+<p align="center"><sub>If the snake animation doesn't load, view the <a href="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake.svg">standard</a> or <a href="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake-dark.svg">dark</a> version.</sub></p>
 
 ---
 
