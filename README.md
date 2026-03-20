@@ -4,16 +4,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rishikesan05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>&nbsp;
   <a href="mailto:bsrishi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
   </a>&nbsp;
   <a href="https://rishikesan05.github.io/RishiPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="28" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="28"/>
   </a>&nbsp;
   <a href="https://github.com/Rishikesan05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
   </a>
 </div>
 
@@ -100,9 +100,7 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies" loading="lazy"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies" loading="lazy"/>
 </div>
 <p align="center"><sub>If the trophies image doesn't load, open it directly <a href="https://github-profile-trophy.vercel.app/?username=Rishikesan05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7">here</a>.</sub></p>
 
@@ -156,16 +154,16 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rishikesan05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>&nbsp;
   <a href="mailto:bsrishi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
   </a>&nbsp;
   <a href="https://github.com/Rishikesan05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
   </a>&nbsp;
   <a href="https://rishikesan05.github.io/RishiPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="28" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="28"/>
   </a>
 
   <br/>
