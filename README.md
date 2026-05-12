@@ -15,12 +15,10 @@
 ---
 
 ### 👨‍💻 Professional Profile
-I am a **Full-Stack Digital Transformation Engineer** specializing in the intersection of scalable software engineering and premium design. Currently leading the digital architecture at **HOUSEFIX.LK**, I bridge the gap between complex backend systems and state-of-the-art user experiences.
+I am a **Full-Stack Digital Transformation Engineer** specialising in the intersection of scalable software engineering and premium design. Currently leading the digital architecture at **HOUSEFIX.LK**, I bridge the gap between complex backend systems and state-of-the-art user experiences.
 
 - 🚀 **Full-Stack Engineer** at **HOUSEFIX.LK (PVT) LTD**
-- 🛠️ **Expertise**: Flutter & Dart (Expert), Firebase, React, & System Architecture
 - 🎓 **Academic**: BSc (Hons) in Information Systems · **Sabaragamuwa University of Sri Lanka**
-- 👨‍🏫 **Education**: Freelance Tutor for Mathematics & Computer Science (Cambridge Syllabus)
 
 ---
 
@@ -55,22 +53,7 @@ I am a **Full-Stack Digital Transformation Engineer** specializing in the inters
 
 ---
 
-### 🏆 Recognition & Leadership
-- **Main Designer** · Leo Club of SUSL (Most Outstanding Designer Award '26)
-- **Top 10 Best Performing Leo** · ZENOVA '26
-- **Board of Prefects** · Jaffna Hindu College
-
----
-
 ### 🐍 Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-</div>
-
----
-
-<div align="center">
-  **Engineering digital futures, one commit at a time.**
-  <br/>
-  *Jaffna, Sri Lanka · bsrishi2003@gmail.com*
 </div>
