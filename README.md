@@ -3,7 +3,12 @@
 <!-- ======================================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishikesan&fontSize=76&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Information%20Systems%20Undergraduate&descAlignY=65&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishikesan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Information%20Systems%20Undergraduate&descAlignY=58&descSize=20" width="100%"/>
+  <br />
+  <a href="https://www.linkedin.com/in/rishikesan05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://rishiware.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="mailto:bsrishi2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rishikesan05&color=8A2BE2&style=for-the-badge&label=VIEWS" alt="Profile Views"/>
 </div>
 
 <!-- ======================================================================= -->
@@ -54,7 +59,7 @@ experience:
 <!--                            GITHUB ANALYTICS                             -->
 <!-- ======================================================================= -->
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishikesan05&theme=radical" width="100%" alt="Contribution Details"/>
@@ -80,7 +85,7 @@ experience:
 <!--                           CONTRIBUTION SNAKE                            -->
 <!-- ======================================================================= -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"> Contribution Snake
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
