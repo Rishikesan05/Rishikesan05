@@ -28,16 +28,14 @@
 name: Selvaventhan Rishikesan
 location: Colombo, Sri Lanka 🇱🇰
 hometown: Jaffna, Sri Lanka 🇱🇰
-role: Software Engineering Intern | Full-Stack Developer
-status: Information Systems Undergraduate @ Sabaragamuwa University of Sri Lanka
 
 education:
   degree: B.Sc. (Hons) in Information Systems (UG)
   university: Sabaragamuwa University of Sri Lanka
 
 experience:
-  - 💼 Former Full-Stack Developer at HOUSEFIX.LK (PVT) LTD (Mar 2026 - Sep 2026)
-  - 🎓 Former BIT Instructor at RMII (Jun 2025 - Mar 2026)
+  - 💼 Full-Stack Developer at HOUSEFIX.LK (PVT) LTD (Mar 2026 - Sep 2026)
+  - 🎓 BIT Instructor at RMII (Jun 2025 - Mar 2026)
 ```
 
 <br />
@@ -49,26 +47,17 @@ experience:
 ## ⚡ Tech Stack
 
 <div align="center">
+  <p><b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,java,html,css&theme=dark" /></p>
 
-  ### 🌐 Languages
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,java,html,css&theme=dark" />
-  <br /><br />
+  <p><b>Frameworks & Full-Stack</b><br>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,flask,tailwind&theme=dark" /></p>
 
-  ### 🛠️ Frameworks & Backend
-  <br />
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,flask,tailwind&theme=dark" />
-  <br /><br />
+  <p><b>AI, Machine Learning & Databases</b><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,firebase,mysql,sqlite&theme=dark" /></p>
 
-  ### 🧠 AI, Machine Learning & Databases
-  <br />
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,firebase,mysql,sqlite&theme=dark" />
-  <br /><br />
-
-  ### ⚙️ Developer Tools & DevOps
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,figma,linux&theme=dark" />
-
+  <p><b>Developer Tools & DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,figma,linux&theme=dark" /></p>
 </div>
 
 <br />
@@ -107,14 +96,4 @@ experience:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rishikesan05/Rishikesan05/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-</div>
-
-<br />
-
-<!-- ======================================================================= -->
-<!--                            FOOTER                                     -->
-<!-- ======================================================================= -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
