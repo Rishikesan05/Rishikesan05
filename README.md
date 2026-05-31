@@ -1,80 +1,92 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     🚀 RISHIKESAN — GITHUB PROFILE                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
+<!--                     🚀 RISHIKESAN - GITHUB PROFILE                    -->
+<!-- ======================================================================= -->
 
 <div align="center">
 
   <!-- ─── ANIMATED HEADER ─── -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishikesan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Digital%20Transformation%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishikesan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Intern%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
   <!-- ─── TYPING SVG ─── -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=500&height=40&lines=Building+Digital+Ecosystems+%F0%9F%8C%90;Transforming+Ideas+into+Experiences+%E2%9C%A8;Engineering+the+Future+of+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&height=40&lines=Software+Engineering+Intern+%F0%9F%9A%80;Full-Stack+%26+Mobile+Application+Developer+%F0%9F%92%BB;RAG+%26+Conversational+AI+Engineer+%E2%9C%A8;Building+Production-Ready+Software+%F0%9F%8C%90" alt="Typing SVG" />
 
   <!-- ─── SOCIAL BADGES ─── -->
-  <a href="https://www.linkedin.com/in/rishikesan05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/rishikesan05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://rishiware.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=fff" alt="Portfolio"/></a>
   <a href="mailto:bsrishi2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/></a>
   <img src="https://komarev.com/ghpvc/?username=Rishikesan05&color=8A2BE2&style=for-the-badge&label=VIEWS" alt="Profile Views"/>
 
 </div>
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
 <!--                         👨‍💻 ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
 name: Selvaventhan Rishikesan
-current_location: Belihuloya, Sri Lanka 🇱🇰
+current_location: Colombo, Sri Lanka 🇱🇰
 hometown: Jaffna, Sri Lanka 🇱🇰
-current_role: Full-Stack Digital Transformation Engineer
+current_role: Software Engineering Intern | Full-Stack Developer
 company: HOUSEFIX.LK (PVT) LTD
 
 education:
-  degree: BSc (Hons) in Information Systems (UG)
+  degree: B.Sc. (Hons) in Information Systems (Undergraduate)
   university: Sabaragamuwa University of Sri Lanka
 
 roles:
-  - 🚀 Full-Stack Engineer at HOUSEFIX.LK (PVT) LTD
-  - 👨‍🏫 BIT Instructor at RMII (Ridmath Institute of Innovation)
-  - 📚 Freelance Tutor for Mathematics & Computer Science (Cambridge & Elysium Syllabus)
+  - 💻 Full-Stack Developer at HOUSEFIX.LK (PVT) LTD
+  - 🎓 BIT Instructor at RMII (Ridmath Institute of Innovation)
 ```
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        🛠️ TECH STACK                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
+<!--                        ⚡ TECH STACK                                  -->
+<!-- ======================================================================= -->
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
   **Languages & Frameworks**
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,js,dart,java,html,css,flutter,react,nextjs,nodejs,flask&theme=dark&perline=11" />
+  <br /><br />
 
-  <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nextjs,nodejs,php,python&theme=dark&perline=9" />
+  **AI, Machine Learning & Databases**
+  <br />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,firebase,mysql,sqlite&theme=dark&perline=5" />
+  <br /><br />
 
-  **Styling & Design**
-
-  <img src="https://skillicons.dev/icons?i=tailwind,css,html,figma,xd&theme=dark&perline=5" />
-
-  **Backend & Database**
-
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase&theme=dark&perline=4" />
-
-  **Tools & DevOps**
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,linux&theme=dark&perline=6" />
+  **Tools & Platforms**
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode&theme=dark&perline=6" />
 
 </div>
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, Dart, Java, HTML5, CSS3 |
+| **Frameworks** | Flutter, React, Next.js, Node.js, Flask |
+| **Backend & APIs** | REST APIs, Firebase, Gemini API, Google Maps API |
+| **Databases** | MySQL, SQLite, Firestore |
+| **AI & Machine Learning** | RAG, LangChain, FAISS, PyTorch, OpenCV, scikit-learn |
+| **Development Tools** | Git, GitHub, Postman, Vercel, Streamlit |
+| **Core Concepts** | OOP, Data Structures & Algorithms, Unit Testing, Agile/Scrum |
+
+</div>
+
+<br />
+
+<!-- ======================================================================= -->
 <!--                       📊 GITHUB ANALYTICS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
 
 ## 📊 GitHub Analytics
 
@@ -98,138 +110,9 @@ roles:
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       🌟 ALL PROJECTS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🌟 All Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚗 RideSync</h3>
-        <p align="center">
-          <a href="https://github.com/Rishikesan05/RideSync-App-Development"><img src="https://img.shields.io/badge/VIEW_REPO-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://www.figma.com/design/05RmDGE7JT90B2lCJZQzyP/Ridesync-Figma?node-id=0-1"><img src="https://img.shields.io/badge/VIEW_DESIGN-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-        </p>
-        <p align="center">Real-time transit & ride-sharing mobile app. Built as a capstone project with live tracking, booking, and route optimization.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏗️ HOUSEFIX.LK</h3>
-        <p align="center">
-          <a href="https://github.com/Rishikesan05/HOUSEFIX.LK-Comingsoon-web"><img src="https://img.shields.io/badge/VIEW_REPO-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://housefix.lk"><img src="https://img.shields.io/badge/VIEW_LIVE-F75C7E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        </p>
-        <p align="center">Full-stack construction & business management platform connecting homeowners with verified service professionals across Sri Lanka.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💼 PRIMEWARE</h3>
-        <p align="center">
-          <a href="https://github.com/Rishikesan05/PRIMEWARE-Comingsoon-web"><img src="https://img.shields.io/badge/VIEW_REPO-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://primeware.housefix.lk"><img src="https://img.shields.io/badge/VIEW_LIVE-F75C7E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        </p>
-        <p align="center">High-end digital transformation & corporate branding platform with cinematic scroll experiences and premium UI/UX design.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎓 Student Result Portal</h3>
-        <p align="center">
-          <a href="https://github.com/Rishikesan05/Student-Result-Portal"><img src="https://img.shields.io/badge/VIEW_REPO-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://portal.rishiware.com"><img src="https://img.shields.io/badge/VIEW_LIVE-F75C7E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        </p>
-        <p align="center">Dynamic academic management dashboard for managing and displaying student results with role-based access control.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📸 Uni-Memories</h3>
-        <p align="center">
-          <a href="https://github.com/Rishikesan05/Uni-Memories-web-development"><img src="https://img.shields.io/badge/VIEW_REPO-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://memories.rishiware.com"><img src="https://img.shields.io/badge/VIEW_LIVE-F75C7E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        </p>
-        <p align="center">Interactive batch documentation platform preserving university memories through photos, events, and profiles for students.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎬 Documentary Video Platform</h3>
-        <p align="center">
-          <a href="https://github.com/Rishikesan05/documentary-Video-web-development"><img src="https://img.shields.io/badge/VIEW_REPO-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://video.rishiware.com"><img src="https://img.shields.io/badge/VIEW_LIVE-F75C7E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        </p>
-        <p align="center">A sleek documentary video streaming web app with a custom player, curated content, and an immersive viewing experience.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎨 Rishi Portfolio</h3>
-        <p align="center">
-          <a href="https://github.com/Rishikesan05/Rishi_Portfolio"><img src="https://img.shields.io/badge/VIEW_REPO-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://rishiware.com"><img src="https://img.shields.io/badge/VIEW_LIVE-F75C7E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        </p>
-        <p align="center">Personal portfolio site showcasing projects, skills, and professional experience — built with premium design & animations.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎵 Rishi Production</h3>
-        <p align="center">
-          <a href="https://github.com/Rishikesan05/Rishiproduction.com-web-development"><img src="https://img.shields.io/badge/VIEW_REPO-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://production.rishiware.com"><img src="https://img.shields.io/badge/VIEW_LIVE-F75C7E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        </p>
-        <p align="center">Creative production website showcasing media, creative works, and digital production services with a modern aesthetic.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
 <!--                        🐍 CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
 
 ## 🐍 Contribution Snake
 
@@ -239,9 +122,9 @@ roles:
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
 <!--                            FOOTER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ======================================================================= -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
