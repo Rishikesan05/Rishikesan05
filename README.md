@@ -7,15 +7,6 @@
   <!-- ─── ANIMATED HEADER ─── -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishikesan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Information%20Systems%20Undergraduate&descAlignY=58&descSize=20" width="100%"/>
 
-  <!-- ─── TYPING SVG ─── -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=620&height=40&lines=Full-Stack+%26+Mobile+Application+Developer+%F0%9F%92%BB;Information+Systems+Undergraduate+%F0%9F%8E%93;RAG+%26+Conversational+AI+Engineer+%E2%9C%A8;Open+Source+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-
-  <!-- ─── SOCIAL BADGES ─── -->
-  <a href="https://www.linkedin.com/in/rishikesan05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://rishiware.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=fff" alt="Portfolio"/></a>
-  <a href="mailto:bsrishi2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Rishikesan05&color=8A2BE2&style=for-the-badge&label=VIEWS" alt="Profile Views"/>
-
 </div>
 
 <!-- ======================================================================= -->
