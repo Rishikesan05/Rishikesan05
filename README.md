@@ -43,8 +43,7 @@ education:
 roles:
   - 🚀 Full-Stack Engineer at HOUSEFIX.LK (PVT) LTD
   - 👨‍🏫 BIT Instructor at RMII (Ridmath Institute of Innovation)
-  - 📚 Freelance Tutor for Mathematics & Computer Science
-  - 🎓 Undergraduate at Sabaragamuwa University of Sri Lanka
+  - 📚 Freelance Tutor for Mathematics & Computer Science (Cambridge & Elysium Syllabus)
 ```
 
 <br />
