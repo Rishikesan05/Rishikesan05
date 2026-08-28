@@ -19,14 +19,9 @@ I am a **Full-Stack Digital Transformation Engineer** specialising in the inters
 
 ### 🛠️ Technical Arsenal
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Productivity-FF4B4B?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System_Architecture-00599C?style=flat-square&logo=diagrams.net&logoColor=white"/>
+  <br />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,tailwind,js,ts,nodejs,firebase,php,mysql,figma,git&theme=dark&perline=7" />
+  <br />
 </div>
 
 ---
