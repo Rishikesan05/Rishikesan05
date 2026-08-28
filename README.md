@@ -15,10 +15,10 @@
   <br />
 
   <!-- ─── SOCIAL BADGES ─── -->
-  [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesan05/)
-  [![](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://rishiware.com)
-  [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsrishi2003@gmail.com)
-  <img src="https://komarev.com/ghpvc/?username=Rishikesan05&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/rishikesan05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" height="28"></a>&nbsp;&nbsp;
+  <a href="https://rishiware.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white&logoWidth=20" alt="Portfolio" height="28"></a>&nbsp;&nbsp;
+  <a href="mailto:bsrishi2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&logoWidth=20" alt="Gmail" height="28"></a>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rishikesan05&color=8A2BE2&style=flat-square&label=VIEWS" alt="Profile Views" height="28"/>
 
 </div>
 
