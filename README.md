@@ -12,7 +12,7 @@ I am a **Full-Stack Digital Transformation Engineer** specialising in the inters
 
 - 🚀 **Full-Stack Engineer** at **HOUSEFIX.LK (PVT) LTD**
 - 👨‍🏫 **BIT Instructor** at **RMII (Ridmath Institute of Innovation)**
-- 📚 **Freelance Tutor** — Mathematics & Computer Science (Cambridge & Elysium Syllabus)
+- 📚 **Freelance Tutor** for Mathematics & Computer Science (Cambridge & Elysium Syllabus)
 - 🎓 **Academic**: BSc (Hons) in Information Systems · **Sabaragamuwa University of Sri Lanka**
 
 ---
