@@ -30,13 +30,14 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: Rishikesan
-located_in: Sri Lanka 🇱🇰
+name: Selvaventhan Rishikesan
+current_location: Belihuloya, Sri Lanka 🇱🇰
+hometown: Jaffna, Sri Lanka 🇱🇰
 current_role: Full-Stack Digital Transformation Engineer
 company: HOUSEFIX.LK (PVT) LTD
 
 education:
-  degree: BSc (Hons) in Information Systems
+  degree: BSc (Hons) in Information Systems (UG)
   university: Sabaragamuwa University of Sri Lanka
 
 roles:
@@ -44,9 +45,6 @@ roles:
   - 👨‍🏫 BIT Instructor at RMII (Ridmath Institute of Innovation)
   - 📚 Freelance Tutor for Mathematics & Computer Science
   - 🎓 Undergraduate at Sabaragamuwa University of Sri Lanka
-
-currently_learning: [ "System Architecture", "Cloud Infrastructure", "AI Integration" ]
-hobbies: [ "Teaching", "Open Source", "UI/UX Design" ]
 ```
 
 <br />
