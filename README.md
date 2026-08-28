@@ -11,6 +11,8 @@
 I am a **Full-Stack Digital Transformation Engineer** specialising in the intersection of scalable software engineering and premium design. Currently leading the digital architecture at **HOUSEFIX.LK**, I bridge the gap between complex backend systems and state-of-the-art user experiences.
 
 - 🚀 **Full-Stack Engineer** at **HOUSEFIX.LK (PVT) LTD**
+- 👨‍🏫 **BIT Instructor** at **RMII (Ridmath Institute of Innovation)**
+- 📚 **Freelance Tutor** — Mathematics & Computer Science (Cambridge & Elysium Syllabus)
 - 🎓 **Academic**: BSc (Hons) in Information Systems · **Sabaragamuwa University of Sri Lanka**
 
 ---
