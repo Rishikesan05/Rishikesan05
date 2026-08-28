@@ -9,9 +9,9 @@
 
   <!-- ─── TYPING SVG ─── -->
   <a href="https://rishiware.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Digital+Ecosystems+%F0%9F%8C%90;Transforming+Ideas+into+Experiences+%E2%9C%A8;Engineering+the+Future+of+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=550&height=50&lines=Building+Digital+Ecosystems+%F0%9F%8C%90;Transforming+Ideas+into+Experiences+%E2%9C%A8;Engineering+the+Future+of+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  <br /><br />
+  <br />
 
   <!-- ─── SOCIAL BADGES ─── -->
   <a href="https://www.linkedin.com/in/rishikesan05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>&nbsp;&nbsp;
