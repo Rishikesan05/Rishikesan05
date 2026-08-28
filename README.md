@@ -33,18 +33,20 @@ I am a **Full-Stack Digital Transformation Engineer** specialising in the inters
 
 ### 📈 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishikesan05&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesan05&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishikesan05&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishikesan05&theme=radical" alt="Top Languages" height="170"/>
 </div>
 
 ---
 
 ### 🌟 Featured Projects
-- **[RideSync](https://github.com/Rishikesan05/RideSync-App-Development)**: Real-time transit & ride-sharing solution (Capstone Project).
-- **[HOUSEFIX.LK Platform](https://www.housefix.lk)**: Full-stack construction & business management ecosystem.
-- **[PRIMEWARE](https://dev-primeware.housefix.lk)**: High-end digital transformation and corporate branding.
-- **[Student Result Portal](https://github.com/Rishikesan05/Student-Result-Portal)**: Dynamic academic management dashboard.
-- **[Uni-Memories](https://github.com/Rishikesan05/Uni-Memories-web-development)**: Interactive batch documentation platform.
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[RideSync](https://github.com/Rishikesan05/RideSync-App-Development)** | Real-time transit & ride-sharing solution (Capstone Project). | `Flutter` `Firebase` `Node.js` |
+| **[HOUSEFIX.LK](https://www.housefix.lk)** | Full-stack construction & business management ecosystem. | `Next.js` `React` `Tailwind` |
+| **[PRIMEWARE](https://dev-primeware.housefix.lk)** | High-end digital transformation and corporate branding. | `GSAP` `HTML5` `CSS3` |
+| **[Student Result Portal](https://github.com/Rishikesan05/Student-Result-Portal)** | Dynamic academic management dashboard. | `PHP` `MySQL` `Bootstrap` |
+| **[Uni-Memories](https://github.com/Rishikesan05/Uni-Memories-web-development)** | Interactive batch documentation platform. | `React` `Firebase` |
 
 ---
 
